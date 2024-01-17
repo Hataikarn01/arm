@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('Hi')
-st.title('Hataikarn Maneejak')
+st.title('สัวสดี')
+st.title('เราหทัยกานต์ มณีจักร')
